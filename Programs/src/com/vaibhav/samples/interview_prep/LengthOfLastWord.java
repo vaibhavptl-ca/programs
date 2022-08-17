@@ -14,8 +14,7 @@ public class LengthOfLastWord {
         }
 
         int left = right;
-        while (left >= 0 && s.charAt(left) != ' ') {
-        }
+        while (left >= 0 && s.charAt(left) != ' ')
         {
             left--;
         }

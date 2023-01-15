@@ -1,4 +1,4 @@
-package interview_prep;
+package com.vaibhav.samples.interview_prep;
 
 public class LongestPalinString {
 

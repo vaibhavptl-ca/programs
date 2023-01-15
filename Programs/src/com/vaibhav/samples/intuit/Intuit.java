@@ -1,4 +1,4 @@
-package intuit;
+package com.vaibhav.samples.intuit;
 
 import java.util.ArrayList;
 import java.util.HashMap;

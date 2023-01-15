@@ -1,4 +1,4 @@
-package interview_prep;//package com.vaibhav.samples;
+package com.vaibhav.samples.interview_prep;//package com.vaibhav.samples;
 //
 //import java.io.*;
 //import java.util.ArrayList;

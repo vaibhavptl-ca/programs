@@ -1,0 +1,10 @@
+
+M
+java:S1854
+"7Remove this useless assignment to local variable "arr".(πè€≈
+>
+java:S1481
+"(Remove this unused "arr" local variable.(πè€≈
+V	java:S125"<This block of commented-out lines of code should be removed.(«É¸õ˘ˇˇˇˇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ª´ö–
+S	java:S106."9Replace this use of System.out or System.err by a logger.(À†Ö∏¸ˇˇˇˇ

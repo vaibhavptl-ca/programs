@@ -10,7 +10,7 @@ class Output{
     public static void main(String[] args){
         LinkedList linkedList = new LinkedList();
         linkedList.createLinkedList(4);
-        System.out.println("Created a Singly list for nodeValue as : "+ linkedList.head.valueOfNode);
+//        System.out.println("Created a Singly list for nodeValue as : "+ linkedList.head.valueOfNode);
         linkedList.insertIntoLinkedListNode(5,1);
         linkedList.insertIntoLinkedListNode(10,2);
         linkedList.insertIntoLinkedListNode(2,3);

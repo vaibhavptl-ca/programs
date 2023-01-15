@@ -1,0 +1,10 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ·È™
+D
+java:S2201".The return value of "replaceAll" must be used.(ž­¥œ
+D
+java:S2201".The return value of "replaceAll" must be used.(³ãØÖ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(°ÎðÞ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¡“ÄÀúÿÿÿÿ
+]
+java:S38241"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(É†µA

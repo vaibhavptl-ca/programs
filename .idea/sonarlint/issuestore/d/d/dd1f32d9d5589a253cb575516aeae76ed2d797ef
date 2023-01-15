@@ -1,0 +1,25 @@
+
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù¸ãèÿÿÿÿÿ
+c
+java:S2095#"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ØöÁûÿÿÿÿ
+‰
+java:S1130"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(ì¾ùÿÿÿÿ
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.( ’Í„8÷í­¸0
+V	java:S125"<This block of commented-out lines of code should be removed.(œ‡‘ˆùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹“üşÿÿÿÿ
+\
+java:S1075!"ARefactor your code to get this URI from a customizable parameter.(‡©æñûÿÿÿÿ
+J
+java:S1481!"/Remove this unused "outputFile" local variable.(‡©æñûÿÿÿÿ
+M
+java:S1135("2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+G
+java:S11720"*Remove this unused method parameter "pwd".(Âƒ¬8ŞÕŠ­¸0
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ô¯‰­¸0
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ô¯‰­¸0
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ô¯‰­¸0

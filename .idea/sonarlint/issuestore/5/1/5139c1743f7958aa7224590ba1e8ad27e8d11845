@@ -1,0 +1,24 @@
+
+i
+java:S1104."NMake id a static final constant or non-public and provide accessors if needed.(ÍéÌ‘øÿÿÿÿ
+k
+java:S1104/"PMake city a static final constant or non-public and provide accessors if needed.(ÎÉâåúÿÿÿÿ
+f
+java:S11040"PMake temp a static final constant or non-public and provide accessors if needed.(ì£³
+j
+java:S11041"TMake pressure a static final constant or non-public and provide accessors if needed.(É•Ì‰
+o
+java:S11042"TMake humidity a static final constant or non-public and provide accessors if needed.(¹è€Ïúÿÿÿÿ
+R
+java:S1854#"7Remove this useless assignment to local variable "map".(ÍÙı·ıÿÿÿÿ
+^
+java:S1854""<Remove this useless assignment to local variable "dataList".(‰¡†Óûÿÿÿÿ8¥éº­0
+N
+java:S1172!"3Remove these unused method parameters "stats", "k".(èˆğ«øÿÿÿÿ
+O
+java:S1481""-Remove this unused "dataList" local variable.(‰¡†Óûÿÿÿÿ8¥éº­0
+C
+java:S1481#"(Remove this unused "map" local variable.(ÍÙı·ıÿÿÿÿ
+>
+java:S1481%"(Remove this unused "str" local variable.(À‡¼È
+>	java:S108%")Either remove or fill this block of code.(À‡¼È

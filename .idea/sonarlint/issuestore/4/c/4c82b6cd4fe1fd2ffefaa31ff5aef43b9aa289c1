@@ -1,0 +1,29 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯Þäž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯Þäž
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¯Þäž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯Þäž
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¯Þäž
+E
+java:S1197"*Move the array designators [] to the type.(’ÀÂúÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ã“Øþøÿÿÿÿ
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ÆøÛz
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(ªÒ²¾
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(«ÈœÑþÿÿÿÿ
+G
+java:S1197;",Move the array designators [][] to the type.(âÐ­þÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(é¼Ã´ùÿÿÿÿ
+S	java:S106@"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(¨º¹ùÿÿÿÿ
+@
+java:S1197S"*Move the array designators [] to the type.(÷¤½‚
+t
+java:S3012X"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨çÜ™úÿÿÿÿ
+¯
+java:S1192"˜Define a constant instead of duplicating this literal "---------------------------------------------------------------------------------------" 5 times.(¯Þäž
+c
+java:S3973>"HUse indentation to denote the code conditionally executed by this "for".(¼ðÝÒüÿÿÿÿ
+—
+java:S2681@"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ªÓ¼áþÿÿÿÿ

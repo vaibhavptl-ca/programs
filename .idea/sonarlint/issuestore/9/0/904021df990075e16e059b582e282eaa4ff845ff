@@ -1,0 +1,6 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ÎñµÜ
+7
+java:S1116"Remove this empty statement.(Ýê–Õýÿÿÿÿ
+L
+java:S1751"6Remove this "return" statement or make it conditional.(§¼Éç

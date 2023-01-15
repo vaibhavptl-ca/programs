@@ -1,0 +1,30 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(•ŸÈˆıÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(ˆÆ€Õûÿÿÿÿ
+J
+java:S2209"5Change this instance-reference to a static reference.(™ÄıR
+K
+java:S2209"5Change this instance-reference to a static reference.(®‰’†
+P
+java:S2209"5Change this instance-reference to a static reference.(ïÂ»Æüÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(üªÏÉùÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(ó«´
+6
+java:S3010" Remove this assignment of "arr".(ÙÒâƒ
+6
+java:S3010" Remove this assignment of "arr".(Í¯‘Ë
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(’™’°ÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(’†£’
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(òÚ¢¨ıÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Š°é—
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(á¹½
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(¿û¢¼ıÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(üçşŞ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(úåĞ¶
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ßŒ‚ÿÿÿÿÿ

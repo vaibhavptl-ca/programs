@@ -1,0 +1,25 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ëÖÛ
+E
+java:S3740"/Provide the parametrized type for this generic.(ëÖÛ
+M
+java:S1854"7Remove this useless assignment to local variable "set".(ëÖÛ
+K
+java:S1854"6Remove this useless assignment to local variable "sc".(Š¶Àw
+E
+java:S1197
+"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.( §í øÿÿÿÿ
+@
+java:S1481"*Remove this unused "input" local variable.(›±Ü
+<
+java:S1481"'Remove this unused "sc" local variable.(Š¶Àw
+>
+java:S1481"(Remove this unused "set" local variable.(ëÖÛ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å¹Çªùÿÿÿÿ
+Z
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Š¶Àw
+c
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(§Ÿ“•ÿÿÿÿÿ

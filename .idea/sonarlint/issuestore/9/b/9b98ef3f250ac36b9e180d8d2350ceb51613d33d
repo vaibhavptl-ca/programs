@@ -1,0 +1,9 @@
+
+7
+java:S1659"!Declare "pos" on a separate line.(À²ûÿ
+E
+java:S1481"/Remove this unused "countTimes" local variable.(À²ûÿ
+>
+java:S1481"(Remove this unused "pos" local variable.(À²ûÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²¢êÙùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(¸Úðçøÿÿÿÿ

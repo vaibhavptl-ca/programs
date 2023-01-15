@@ -1,0 +1,5 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°ÙÍ™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÏ³£ýÿÿÿÿ
+T
+java:S3516)"9Refactor this method to not always return the same value.(‘ýä—üÿÿÿÿ

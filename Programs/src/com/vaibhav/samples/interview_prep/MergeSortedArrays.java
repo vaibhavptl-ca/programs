@@ -1,4 +1,4 @@
-package interview_prep;
+package com.vaibhav.samples.interview_prep;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

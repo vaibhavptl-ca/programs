@@ -125,5 +125,3 @@ c
 MPrograms/src/com/vaibhav/samples/interview_prep/LengthOfLongestSubstring.java,2/2/22edd5ba0027c40d91091bab372c49b96e293d0c
 A
 Programs/data.csv,2/2/22b082e1ecd03cd4b167a5ec1189ac11115b745b
-g
-7Programs/src/com/vaibhav/samples/arrays/ArrayIntro.java,d/d/dd1f32d9d5589a253cb575516aeae76ed2d797ef

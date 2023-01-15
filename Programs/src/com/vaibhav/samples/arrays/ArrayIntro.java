@@ -1,4 +1,4 @@
-package arrays;
+package com.vaibhav.samples.arrays;
 
 import java.io.BufferedReader;
 import java.io.File;
